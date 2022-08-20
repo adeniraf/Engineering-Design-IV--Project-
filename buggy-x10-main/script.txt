@@ -1,0 +1,10 @@
+# goal
+drive smoothly backwards around the track while maintaining distance from object
+incoorperate IMU data on screen
+
+# hardware
+identical to silver and buggy challenge
+
+# software
+more tuning, more visualization
+
